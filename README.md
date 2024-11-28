@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandeep Tudu!
 
-<!--
-**SandeepTudu-create/SandeepTudu-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning Data Analysis, Machine Learning.
+- 💼 I'm looking for a role as a Data Analyst.
 
-Here are some ideas to get you started:
+## 📊 Skills
+- **Programming Languages:** Python, SQL, Power BI , Excel.
+- **Tools & Technologies:** MySQL Workbench, Pandas, NumPy, Matplotlib .
+- **Soft Skills:** Problem Solving, Team Collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Projects
+| Project Name       | Description                              | Repo Link                    |
+|--------------------|------------------------------------------|------------------------------|
+| [Project 1 Name]   | Brief description of the project         | [GitHub Repo Link](#)        |
+| [Project 2 Name]   | Brief description of another project     | [GitHub Repo Link](#)        |
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [Your Email](mailto:your-email@example.com)
+
+## 🌟 Fun Fact
+[Add a fun or interesting fact about yourself!]
+
