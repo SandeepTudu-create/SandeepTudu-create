@@ -10,15 +10,13 @@
 - **Soft Skills:** Problem Solving, Team Collaboration.
 
 ## 💻 My Projects
-| Project Name       | Description                              | Repo Link                    |
-|--------------------|------------------------------------------|------------------------------|
-| [Project 1 Name]   | Brief description of the project         | [GitHub Repo Link](#)        |
-| [Project 2 Name]   | Brief description of another project     | [GitHub Repo Link](#)        |
+| Project Name                                                  |  Repo Link                                                |
+|---------------------------------------------------------------|-----------------------------------------------------------|
+| Adventure Works Dataset Interactive Dashboard and Insights    | https://github.com/manasjadhav0086/Adventure-Works        | 
+| Shark Tank India Dataset Analysis and Insights                | https://github.com/SandeepTudu-create/Quantum-Questers-038|
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](mailto:your-email@example.com)
+- LinkedIn: https://www.linkedin.com/in/sandeep-tudu-768a08239
+- Email: sandeeptudu11111@gmail.com
 
-## 🌟 Fun Fact
-[Add a fun or interesting fact about yourself!]
 
